@@ -12,4 +12,7 @@ public class Employee {
 	@FindBy(id="Demo")
 	public static WebElement Demo;
 	
+	@FindBy(id="Demo")
+	public static WebElement D;
+	
 }
