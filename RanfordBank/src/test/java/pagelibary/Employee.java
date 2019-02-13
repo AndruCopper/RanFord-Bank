@@ -8,4 +8,8 @@ public class Employee {
 	
 	@FindBy(id="BtnNew")
 	public static WebElement newEmployee;
+	
+	@FindBy(id="Demo")
+	public static WebElement Demo;
+	
 }
